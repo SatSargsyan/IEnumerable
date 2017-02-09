@@ -1,6 +1,7 @@
 # IEnumerable
 <h3>In mathematics, the <a href=https://en.wikipedia.org/wiki/Fibonacci_number><b><i>Fibonacci numbers</i></b></a> are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones:</h3>
-![fib1](https://cloud.githubusercontent.com/assets/20840005/22788512/72fb37f2-eef9-11e6-8929-2a1e4503ec9f.jp
+
+![fib1](https://cloud.githubusercontent.com/assets/20840005/22788983/10d6ed76-eefb-11e6-8bcb-440dd4c08dd0.jpg)
 
 
 ```C#
