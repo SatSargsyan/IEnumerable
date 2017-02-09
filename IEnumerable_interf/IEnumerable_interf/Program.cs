@@ -10,7 +10,7 @@ namespace IEnumerable_interf
     {
           static void Main(string[] args)
         {
-            foreach (var item in Fib().Skip(0).Take(20))
+            foreach (var item in Fib().Skip(10).Take(30))
             {
                 Console.WriteLine(item);
             }
