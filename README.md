@@ -43,6 +43,5 @@ namespace IEnumerable_interf
 ![fib](https://cloud.githubusercontent.com/assets/20840005/22788812/785034cc-eefa-11e6-8eae-bce54738c4ec.gif)
 
 
-#### We can't use<a href=https://msdn.microsoft.com/en-us/library/14akc2c7.aspx> the ref and out</a> keywords for the 
-<b>Iterator methods, which include a yield return or yield break</b> statement.
+#### We can't use<a href=https://msdn.microsoft.com/en-us/library/14akc2c7.aspx> the ref and out</a> keywords for the <b>Iterator methods, which include a yield return or yield break</b> statement.
 
